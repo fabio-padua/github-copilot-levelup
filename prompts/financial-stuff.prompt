@@ -11,3 +11,4 @@ EXECUTE the following tasks in any other:
 - IMPORT every single data inside this spreedsheet and I want the possibility to edit.
 - CREATE an option to import others spreedsheet files in the same format as well to import past years.
 - CREATE everything needed inside a new folder call `MyFinancialApp`
+- USE dark-mode theme for the front-end app
