@@ -1,0 +1,12 @@
+ I have hundreds of old used stuff in my house. 
+ Products variety goes from old toys, cloths, eletronics and forniture.
+
+ACT as an E-commerce Developer expert and follow all best practice to build this app.
+
+EXECUTE the following tasks in any other:
+
+- NEVER install anything on this computer. USE only what is already installed.
+- CREATE a new e-commerce web application based on the image file `app-idea.png`.
+- START with a simple web application but I want this running in a cellphone as well.
+- CREATE fake products data to validate de shopping workflow.
+- CREATE everything needed inside a new folder call `MyOldStuffShopping`
