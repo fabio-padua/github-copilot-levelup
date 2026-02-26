@@ -10,3 +10,4 @@ EXECUTE the following tasks in any other:
 - START with a simple web application but I want this running in a cellphone as well.
 - CREATE fake products data to validate de shopping workflow.
 - CREATE everything needed inside a new folder call `MyOldStuffShopping`
+- USE port 4000 for this web app
