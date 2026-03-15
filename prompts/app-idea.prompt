@@ -5,9 +5,14 @@ ACT as an E-commerce Developer expert and follow all best practice to build this
 
 EXECUTE the following tasks in any other:
 
+[IMPORTANT]
 - NEVER install anything on this computer. USE only what is already installed.
+
+[REQUIRED]
 - CREATE a new e-commerce web application based on the image file `app-idea.png`.
 - START with a simple web application but I want this running in a cellphone as well.
 - CREATE fake products data to validate de shopping workflow.
 - CREATE everything needed inside a new folder call `MyOldStuffShopping`
+
+[ENVIRONMENT]
 - USE port 4000 for this web app

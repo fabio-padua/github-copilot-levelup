@@ -4,7 +4,10 @@ ACT as a Financial Developer expert and follow all best practice to build this a
 
 EXECUTE the following tasks in any other:
 
+[IMPORTANT]
 - NEVER install anything on this computer. USE only what is already installed.
+
+[REQUIRED]
 - CREATE a new web application based on the spreedsheet file `financial-stuff.xlsx`.
 - START with a simple web application but I want this running in a cellphone as well.
 - DON'T need a complex database control this time but create everything needed to implement this in future.
@@ -13,4 +16,6 @@ EXECUTE the following tasks in any other:
 - CREATE everything needed inside a new folder call `MyFinancialApp`
 - CREATE dashboards to increase the data understanding
 - USE dark-mode theme for the front-end app
+
+[ENVIRONMENT]
 - USE port 3000 for this web app
